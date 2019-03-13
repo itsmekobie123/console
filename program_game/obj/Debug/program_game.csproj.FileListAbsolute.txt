@@ -1,0 +1,12 @@
+C:\Users\Fujitsu\Desktop\System Project\program_game\program_game\bin\Debug\program_game.exe.config
+C:\Users\Fujitsu\Desktop\System Project\program_game\program_game\bin\Debug\program_game.exe
+C:\Users\Fujitsu\Desktop\System Project\program_game\program_game\bin\Debug\program_game.pdb
+C:\Users\Fujitsu\Desktop\System Project\program_game\program_game\obj\Debug\program_game.csprojResolveAssemblyReference.cache
+C:\Users\Fujitsu\Desktop\System Project\program_game\program_game\obj\Debug\program_game.exe
+C:\Users\Fujitsu\Desktop\System Project\program_game\program_game\obj\Debug\program_game.pdb
+C:\Users\Fujitsu\Desktop\School Files\System Project\program_game\program_game\bin\Debug\program_game.exe.config
+C:\Users\Fujitsu\Desktop\School Files\System Project\program_game\program_game\bin\Debug\program_game.exe
+C:\Users\Fujitsu\Desktop\School Files\System Project\program_game\program_game\bin\Debug\program_game.pdb
+C:\Users\Fujitsu\Desktop\School Files\System Project\program_game\program_game\obj\Debug\program_game.csprojResolveAssemblyReference.cache
+C:\Users\Fujitsu\Desktop\School Files\System Project\program_game\program_game\obj\Debug\program_game.exe
+C:\Users\Fujitsu\Desktop\School Files\System Project\program_game\program_game\obj\Debug\program_game.pdb
